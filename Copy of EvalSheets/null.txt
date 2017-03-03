@@ -1,0 +1,20 @@
+Question#No Info#SomeInfo#EnoughInfo#TooMuch#N/A 
+NSCC is an Adult Learning Environment.# 1# 1# 1# 1# 0
+What a typical week in my program will look like.# 0# 1# 2# 1# 0
+The courses in your program.# 2# 1# 0# 1# 0
+Your program requirements, milestones, checklists.# 0# 1# 3# 0# 0
+The workload in your program.# 1# 1# 2# 0# 0
+How you will be evaluated in your program.# 0# 3# 0# 1# 0
+Discussion of faculty teaching style.# 1# 0# 3# 0# 0
+Textbooks, Equipment & Tools - how and when to buy them.# 0# 1# 1# 2# 0
+What is expected in a portfolio for your program.# 0# 2# 1# 1# 0
+Did you find out about Student Services at NSCC?# 0# 1# 1# 1# 1
+Did you find out about work in your field after your program?# 0# 0# 2# 0# 1
+The importance of checking your email & MyNSCC for college communication & important documents# 0# 0# 0# 2# 1
+Your first term fee due dates.# 0# 0# 2# 1# 0
+You must pass ALL courses to complete your program.# 0# 2# 0# 0# 1
+Attendance is extremely important to succeed.# 1# 0# 1# 1# 0
+Involving yourself in campus activites like the Student Association.# 1# 1# 0# 0# 1
+Money is important and you should plan a budget.# 0# 1# 1# 0# 1
+NSCC has Student Awards you can apply for during the year.# 0# 0# 2# 1# 0
+
